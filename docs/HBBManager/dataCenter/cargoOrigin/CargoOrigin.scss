@@ -1,0 +1,9 @@
+.loadingPlaceCode > input,.unloadingPlaceCode > input,.weight-input,.volume-input,.loadingAddress,.unloadingAddress,.loadingTimes,.unloadingTimes{
+    border-color: #ff0000!important;
+}
+
+.loadingPlaceCode:focus .ant-cascader-input,.unloadingPlaceCode:focus .ant-cascader-input,.weight-input:focus,.volume-input:focus,.loadingAddress:focus,.unloadingAddress:focus,.loadingTimes:focus,.unloadingTimes:focus{
+    border-color: #ff0000!important;
+    box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2)!important;
+}
+

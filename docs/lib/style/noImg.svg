@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="66px" viewBox="0 0 104 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="104" height="66" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="104" height="66" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="司机详情-copy" transform="translate(-870.000000, -677.000000)">
+            <g id="分组-5" transform="translate(870.000000, 677.000000)">
+                <use id="Rectangle-72-Copy-16" stroke-opacity="0.15" stroke="#000000" mask="url(#mask-2)" stroke-width="2" fill="#FAFAFA" stroke-dasharray="3,2" xlink:href="#path-1"></use>
+                <text id="未上传" font-family="PingFangSC-Semibold, PingFang SC" font-size="17" font-weight="500" fill="#DDDDDD">
+                    <tspan x="27" y="38">未上传</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

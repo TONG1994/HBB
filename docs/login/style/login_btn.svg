@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="58px" viewBox="0 0 256 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>login_btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.4735188%" y1="8.85583369%" x2="80.9776031%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4C8EE9" offset="0%"></stop>
+            <stop stop-color="#254FCF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="240" height="42" rx="4"></rect>
+        <filter x="-5.4%" y="-26.2%" width="110.8%" height="161.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.145098039   0 0 0 0 0.496773764   0 0 0 0 0.811764706  0 0 0 0.389351223 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-592.000000, -389.000000)" fill-rule="nonzero">
+            <g id="分组-2" transform="translate(600.000000, 395.000000)">
+                <g id="login_btn">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="125px" viewBox="0 0 148 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_box</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="指导价" transform="translate(-816.000000, -221.000000)">
+            <g id="icon_box" transform="translate(815.000000, 221.000000)">
+                <g id="分组" transform="translate(8.000000, 0.000000)">
+                    <polygon id="矩形" fill="#765C2C" points="0 5.14903375 92.3460228 2.64903375 96.0595781 103.481686 34 112.149034 0 85.1490338"></polygon>
+                    <polygon id="矩形" fill="#BF9F6C" points="0 6.14903375 22.5345685 17.5224999 34 22.1490338 33.5726683 111.818402 0 85.1490338"></polygon>
+                    <polygon id="矩形-copy" fill="#C7B184" transform="translate(69.571077, 11.074517) scale(-1, 1) rotate(90.000000) translate(-69.571077, -11.074517) " points="63.6455944 -58.4965606 80.6455944 -24.4965606 76.0190605 80.6455944 58.4965606 38.9466889"></polygon>
+                    <polygon id="矩形" fill="#D5B78A" points="34 22.1490338 139.142155 17.5224999 139.142155 97.9654936 34 112.149034"></polygon>
+                    <polygon id="路径-2" fill="#D7BF8C" points="13.8885507 11.5710775 13.8885507 27.8453549 19.3651681 31.9337725 19.3651681 15.6962602 120.382096 10.1490338 110.586097 6.14903375"></polygon>
+                </g>
+                <g id="分组-2" transform="translate(45.000000, 22.000000)" stroke="#000000" stroke-linecap="square">
+                    <path d="M0,90.1490338 L5.71123805,90.1490338" id="直线-2"></path>
+                    <path d="M0,1.14903375 L5.71123805,1.14903375" id="直线-2"></path>
+                    <path d="M2.85561903,1.14903375 L2.85561903,89.8184021" id="直线-3"></path>
+                </g>
+                <circle id="椭圆形" stroke="#4A4A4A" stroke-width="0.5" fill="#FFFFFF" cx="47.5" cy="56.5" r="9.5"></circle>
+                <text id="高" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="41" y="61">高</tspan>
+                </text>
+                <g id="分组-2" transform="translate(95.240754, 112.673046) rotate(82.000000) translate(-95.240754, -112.673046) translate(91.240754, 58.173046)" stroke="#000000" stroke-linecap="square">
+                    <path d="M1.97540911,107.540272 L7.68664717,107.540272" id="直线-2"></path>
+                    <path d="M0.744295615,1.33535553 L6.45553367,1.33535553" id="直线-2"></path>
+                    <path d="M3.54460372,1.72891316 L4.88633906,107.146715" id="直线-3"></path>
+                </g>
+                <circle id="椭圆形-copy" stroke="#4A4A4A" stroke-width="0.5" fill="#FFFFFF" cx="92.5" cy="114.5" r="9.5"></circle>
+                <text id="长" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="86" y="119">长</tspan>
+                </text>
+                <g id="分组-2-copy" transform="translate(21.135119, 105.241148) scale(-1, 1) rotate(52.000000) translate(-21.135119, -105.241148) translate(17.135119, 82.241148)" stroke="#000000" stroke-linecap="square">
+                    <path d="M1.85307129,45.1428503 L7.56430934,45.1428503" id="直线-2"></path>
+                    <path d="M0.721260346,1.11196339 L6.4324984,1.11196339" id="直线-2"></path>
+                    <path d="M3.57687937,1.11196339 L5.10739878,44.6325267" id="直线-3"></path>
+                </g>
+                <circle id="椭圆形-copy-2" stroke="#4A4A4A" stroke-width="0.5" fill="#FFFFFF" cx="21.5" cy="105.5" r="9.5"></circle>
+                <text id="宽" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="15" y="110">宽</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

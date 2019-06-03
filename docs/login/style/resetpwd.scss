@@ -1,0 +1,150 @@
+.resetpwd {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.resetpwd-header {
+    background-color: rgba(58, 58, 58, 1);
+    height: 116px;
+    width: 100%;
+}
+
+.resetpwd-header .header {
+    width: 1100px;
+    margin: 0px auto;
+}
+
+.resetpwd-header .header .text {
+    width: 600px;
+    color: white;
+    margin: 0px auto;
+    height: 116px;
+    line-height: 116px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.resetpwd .header-menu {
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 35px;
+    margin-right: 20px;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 18px;
+}
+
+.resetpwd .header-menu .menu {
+    width: 100px;
+    text-align: center;
+    float: left;
+}
+
+.resetpwd .header-menu .menu:hover {
+    cursor: pointer;
+}
+
+.resetpwd .header-menu .menu-active {
+    border-bottom: 1.5px solid #108ee9;
+    color: #108ee9 !important;
+}
+
+.resetpwd .content {
+    width: 800px;
+    padding-top: 50px;
+    margin: 0px auto;
+}
+
+.resetpwd .content .title {
+    width: 100%;
+    height: 40px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 3px;
+    border-bottom: 1.5px solid #108ee9;
+    color: #108ee9;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.resetpwd .content .form {
+    // width: 400px;
+    margin: 0px auto;
+}
+
+.resetpwd .content .form label {
+    font-size: 14px;
+}
+
+.resetpwd .content .form .form-item {
+    margin-bottom: 20px;
+}
+
+.resetpwd .content .form .form-item-check-code .ant-input-affix-wrapper {
+    width: 150px;
+    float: left;
+}
+
+.resetpwd .content .form .form-item-check-code .ant-form-explain {
+    float: left;
+}
+
+.resetpwd .content .form .form-item .check-code {
+    height: 32px;
+    font-size: 12px;
+    font-weight: bold;
+    float: right;
+}
+
+.resetpwd .content .form .form-btn-line {
+    text-align: right;
+    margin-top: 50px;
+}
+
+// 进度条
+.steps-content {
+    margin-top: 16px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.resetpwd-step {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.ant-form-explain {
+    text-align: left;
+}
+
+.steps-content .done {
+    text-align: center;
+}
+
+.steps-content .done .done-head {
+    margin-bottom: 20px;
+}
+
+.steps-content .done .done-info {
+    color: #108ee9;
+    margin-bottom: 50px;
+}
+
+.steps-content .done .btn {
+    width: 120px;
+    opacity: .9;
+}
+
+.resetpwd .content .error {
+    margin: 0 auto;
+    width: 500px;
+    margin-bottom: 10px;
+}

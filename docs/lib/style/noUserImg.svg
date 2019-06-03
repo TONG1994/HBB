@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="司机详情-copy" transform="translate(-1360.000000, -96.000000)" fill-rule="nonzero">
+            <g id="分组-6" transform="translate(1360.000000, 96.000000)">
+                <path d="M24,0 C10.8,0 0,10.8 0,24 C0,37.2 10.8,48 24,48 C37.2,48 48,37.2 48,24 C48,10.8 37.2,0 24,0 Z" id="路径" fill="#FAFAFA"></path>
+                <path d="M24.02,9.61 C31.225,9.61 31.225,15.625 31.225,19.02 C31.225,22.42 28.39,28.695 24.02,28.825 C19.765,28.825 16.815,22.55 16.815,19.02 C16.815,15.62 16.815,9.61 24.02,9.61 Z" id="路径" fill="#DDDDDD"></path>
+                <path d="M23.9,43.24 C18.235,43.24 13.06,40.56 9.61,36.355 C10.105,35.08 10.72,33.675 11.58,32.91 C13.43,31.38 18.97,28.83 18.97,28.83 L22.42,35.72 L23.035,34.06 L22.05,32.015 L24.02,29.975 L25.99,32.015 L25.13,34.185 L25.625,35.845 L29.195,29.085 C29.195,29.085 34.74,31.635 36.585,33.165 C37.445,33.805 38.065,34.95 38.435,35.97 C35.11,40.43 29.81,43.24 23.9,43.24 Z" id="路径" fill="#DDDDDD"></path>
+            </g>
+        </g>
+    </g>
+</svg>
